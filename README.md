@@ -1,2 +1,1 @@
-Semana Omnistack 11 -->
-Desenvolvimento web e mobile.
+Be the hero =)
